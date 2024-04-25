@@ -10,4 +10,4 @@ chapters:
 - file: prueba
   sections:
   - file: note
-- file: otro
+  - file: otro
