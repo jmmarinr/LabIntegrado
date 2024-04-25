@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Descripción general
+  - caption: Descripción general del curso
     numbered: True  # Only applies to chapters in Part 1.
     chapters:
     - file: descripcion
