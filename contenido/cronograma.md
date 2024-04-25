@@ -2,7 +2,7 @@
 
 **Semestre 2024-1**
 
-![calendario]('contenido/imgs/Calendario+académico+2024-1+(1)+(1).png')
+![calendario](contenido/imgs/Calendario+académico+2024-1+(1)+(1).png)
 
 ---
 
