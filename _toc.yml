@@ -4,10 +4,13 @@
 format: jb-book
 root: intro
 chapters:
+- file: intro
+  sections:
+  - file: onjetivos
+  - file: metodologia
+chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
 - file: prueba
-  sections:
-  - file: note
-  - file: otro
+
