@@ -20,7 +20,5 @@ parts:
       - file: contenido/teoria/errores
       - file: contenido/teoria/graficas
       - file: contenido/teoria/estadistica
-  - caption: Manuales
-    numbered: False
-    chapters:
+  -caption: Manuales
       - file: contenido/manual
