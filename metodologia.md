@@ -1,9 +1,9 @@
 # Metodologia
 
-``````{admonition} 
+`````{admonition} 
 :class: warning
 Los laboratorios estarán basados en la metodología de proponer preguntas/ problema.
-``````
+`````
 
 Donde los estudiantes contarán con varias sesiones para realizar un(os) montaje(s) experimental(es) y responder a la pregunta inicial. El formato general es que realicen 3 prácticas seleccionadas por el docente y una práctica final propuesta por cada grupo de estudiantes ([práctica libre](https://drive.google.com/file/d/1O8Lvdo8sht-g1l_5oeNx4s_md5BV_mNP/view?usp=drive_link)). 
 
