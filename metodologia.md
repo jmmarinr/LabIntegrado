@@ -23,6 +23,25 @@ inducción electromagnética, propiedades de las ondas electromagnéticas
 de actividades a desarrollar durante el semestre, que contendrán las prácticas que debe
 montar, fechas de cada una y los materiales con los que cuentan.
 
+- Al comenzar cada práctica los estudiantes deben tener en el cuaderno de protocolo
+una propuesta experimental, que les permita orientar sus actividades y así lograr sus
+objetivos. En esta fase inicial, el profesor podrá hacer una evaluación oral individual del
+por qué el montaje propuesto es viable para resolver el problema asignado.
+
+- Después de desarrollada media práctica aproximadamente, los grupos de trabajo
+deberán entregar los avances realizados tanto teóricos como metodológicos en el formato
+de la [V de Gowin](https://drive.google.com/file/d/1X9ydogTXed0-4l_tEovUxUFdkQwqfdjx/view?usp=drive_link).
+
+- Al finalizar cada práctica (4 ó 5 sesiones) los grupos de trabajo deben presentar un
+[informe tipo artículo](https://drive.google.com/file/d/1xFp642YlETPoMfZ8Gjm4hFQlbzGfUqMg/view?usp=drive_link), [poster](https://drive.google.com/file/d/1JHwP0QXmWLQ_XOflMDfszyib9Q9s4enS/view?usp=drive_link) o exposición con el formato de un evento científico y el
+cuaderno de protocolo.
+
+- Los grupos de trabajo deben hacer un proceso de evaluación de otro grupo, es decir,
+los estudiantes harán una co-evaluación de los artículos que les sean asignados, haciendo
+uso de un formato entregado por los profesores del curso. La co-evaluación NO afecta la
+nota del grupo que presentó el artículo, será la nota correspondiente al grupo que hizo la co-
+evaluación.
+
 ```
 
 
