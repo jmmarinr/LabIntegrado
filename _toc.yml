@@ -15,8 +15,8 @@ parts:
   - caption: Teoria básica
     numbered: False
     chapters:
-      - file: metrologia
-      - file: cifras-redondeo
-      - file: errores
-      - file: graficas
-      - file: estadistica
+      - file: contenido/teoria/metrologia
+      - file: contenido/teoria/cifras-redondeo
+      - file: contenido/teoria/errores
+      - file: contenido/teoria/graficas
+      - file: contenido/teoria/estadistica
