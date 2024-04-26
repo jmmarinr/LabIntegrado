@@ -19,8 +19,7 @@ inducción electromagnética, propiedades de las ondas electromagnéticas
 ```{warning}
 -  Se llevará un registro diario por grupo de trabajo en un cuaderno de protocolo.
 
-- Al comenzar el semestre, a cada grupo de estudiantes se le asignará un cronograma
-de actividades a desarrollar durante el semestre, que contendrán las prácticas que debe
+- Al comenzar el semestre, a cada grupo de estudiantes se le asignará un [cronograma de actividades](/contenido/cronograma.md) a desarrollar durante el semestre, que contendrán las prácticas que debe
 montar, fechas de cada una y los materiales con los que cuentan.
 
 - Al comenzar cada práctica los estudiantes deben tener en el cuaderno de protocolo
@@ -33,7 +32,7 @@ deberán entregar los avances realizados tanto teóricos como metodológicos en 
 de la [V de Gowin](https://drive.google.com/file/d/1X9ydogTXed0-4l_tEovUxUFdkQwqfdjx/view?usp=drive_link).
 
 - Al finalizar cada práctica (4 ó 5 sesiones) los grupos de trabajo deben presentar un
-[informe tipo artículo](https://drive.google.com/file/d/1xFp642YlETPoMfZ8Gjm4hFQlbzGfUqMg/view?usp=drive_link), [poster](https://drive.google.com/file/d/1JHwP0QXmWLQ_XOflMDfszyib9Q9s4enS/view?usp=drive_link) o exposición con el formato de un evento científico y el
+[informe tipo artículo](https://drive.google.com/file/d/1xFp642YlETPoMfZ8Gjm4hFQlbzGfUqMg/view?usp=drive_link), [poster](https://drive.google.com/file/d/1JHwP0QXmWLQ_XOflMDfszyib9Q9s4enS/view?usp=drive_link) o [exposición](https://drive.google.com/file/d/1T6StnXkKEJUoqa1MZaJgCf2uRQyehLQR/view?usp=drive_link) con el formato de un evento científico y el
 cuaderno de protocolo.
 
 - Los grupos de trabajo deben hacer un proceso de evaluación de otro grupo, es decir,
