@@ -5,9 +5,10 @@ format: jb-book
 root: intro
 parts:
   - caption: Descripción general del curso
-    numbered: True  # Only applies to chapters in Part 1.
+    numbered: False  # Only applies to chapters in Part 1.
     chapters:
     - file: descripcion
       sections:
       - file: objetivos
       - file: metodologia
+      - file: contenido/cronograma
