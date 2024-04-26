@@ -12,3 +12,11 @@ parts:
       - file: objetivos
       - file: metodologia
       - file: contenido/cronograma
+  - caption: Teoria básica
+    numbered: False
+    chapters:
+      - file: metrologia
+      - file: cifras-redondeo
+      - file: errores
+      - file: graficas
+      - file: estadistica
