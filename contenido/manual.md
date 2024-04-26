@@ -4,12 +4,9 @@
 Incluir los manuales de los equipos con videos del uso
 ---
 
-```{dropdown} **1.01 - ¿Qué es la inteligencia artificial para tí?** <span class="right"><font color="red">Video 14mins</font></span> <br/>Desmitificamos el concepto de Inteligencia Artificial y te invitamos a reflexionar sobre el mismo.
+```{dropdown} **Gráfico de Dispersión (Google Sheets)**
 <center>
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/y3mRk4C9tpM" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.loom.com/embed/dd6fd7754b7d458caca612dba2fbd002?sid=482e9858-3f3a-4b27-a52c-1e6bb98c2878" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </center>
 ```
+
