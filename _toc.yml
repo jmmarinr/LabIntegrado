@@ -24,4 +24,8 @@ parts:
     numbered: False
     chapters:
       - file: contenido/manual
+  - caption: Rúbricas
+    numbered: False
+    chapters:
       - file: contenido/rubricas/Articulo
+      - file: contenido/rubricas/Poster
