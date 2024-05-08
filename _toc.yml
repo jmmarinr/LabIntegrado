@@ -12,6 +12,7 @@ parts:
       - file: objetivos
       - file: metodologia
       - file: contenido/cronograma
+      - file: contenido/evaluacion
   - caption: Teoria básica
     numbered: False
     chapters:
