@@ -16,7 +16,7 @@ El estudiante, al matricularse en un curso práctico, o en un componente curricu
 :link: https://www.udea.edu.co/wps/wcm/connect/udea/b2694dcb-0fd3-49a2-a5cf-0f6aab701139/reglamento-estudiantil-pregrado-con-concordancias.pdf?MOD=AJPERES&CVID=lgcKqM7
 
 **Reglamento estudiantil pregrado: Capítulo V, Artículo 74, numeral b**
-
+alert-fill: 
 Cuando en el curso que pretende cancelar registra hasta el momento de solicitar la cancelación una nota aprobatoria o no se haya efectuado <span style="color:red">más del 40% de la evaluación del mismo.  </span>.
 :::
 
