@@ -12,7 +12,7 @@ kernelspec:
 ---
 
 :::{card} <span style="color:red"> Tomado de Notas de Física Experimental </span>
-:link: https://www.udea.edu.co/wps/wcm/connect/udea/b2694dcb-0fd3-49a2-a5cf-0f6aab701139/reglamento-estudiantil-pregrado-con-concordancias.pdf?MOD=AJPERES&CVID=lgcKqM7
+:link: https://srco.org.co/NotasFExp/docs/part1/cifras-significativas.html
 :::
 
 Tomado de [Notas de Física Experiemntal](https://srco.org.co/NotasFExp/intro.html) por Edgar Rueda.
