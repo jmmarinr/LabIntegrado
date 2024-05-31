@@ -2,8 +2,9 @@
 
 ```{dropdown} **Duración sugerida**
 <center>
-* 3 semanas (4 horas)
-* 2 semanas (6 horas)
+- 3 semanas (4 horas)
+
+- 2 semanas (6 horas)
 </center>
 ```
 

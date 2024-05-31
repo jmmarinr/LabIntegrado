@@ -3,6 +3,7 @@
 ```{dropdown} **Duración sugerida**
 <center>
 * 1 semanas (4 horas)
+
 * 1 semanas (6 horas)
 </center>
 ```
