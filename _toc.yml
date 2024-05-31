@@ -30,6 +30,8 @@ parts:
     chapters:
       - file: contenido/rubricas/Articulo
       - file: contenido/rubricas/Poster
-    chapters: Prácticas
+    
+  - caption: Prácticas
     numbered: True
+    chapters:
       - file: contenido/practicas/numeropi
