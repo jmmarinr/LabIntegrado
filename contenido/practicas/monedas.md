@@ -1,11 +1,9 @@
 # Incertidumbre y propagación de errores en la determinación de la densidad de monedas.
 
 ```{dropdown} **Duración sugerida**
-<center>
 - 3 semanas (4 horas)
 
 - 2 semanas (6 horas)
-</center>
 ```
 
 
