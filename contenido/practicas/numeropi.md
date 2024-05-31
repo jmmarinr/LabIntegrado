@@ -1,6 +1,15 @@
 # Determinación del número $\pi$
 
+```{dropdown} **Duración sugerida**
+<center>
+* 1 semanas (4 horas)
+* 1 semanas (6 horas)
+</center>
+```
+
 ## Objetivos
+
+* Aprender a usar diferentes instrumentos de medidas longitudinales.
 
 * Encontrar en número $\pi$ usando diferentes instrumentos de medición.
 

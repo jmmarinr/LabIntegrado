@@ -1,5 +1,13 @@
 # Incertidumbre y propagación de errores en la determinación de la densidad de monedas.
 
+```{dropdown} **Duración sugerida**
+<center>
+* 3 semanas (4 horas)
+* 2 semanas (6 horas)
+</center>
+```
+
+
 ## Objetivos
 * Encontrar el diámetro, espesor y masa en monedas de la misma denominación usando diferentes instrumentos de medida.
 * Reportar la incertidumbre correspondiente a medidas directas.
