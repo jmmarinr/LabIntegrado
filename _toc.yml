@@ -31,7 +31,7 @@ parts:
       - file: contenido/rubricas/Articulo
       - file: contenido/rubricas/Poster
     
-  - caption: Práctica: Instrumentos de medida
+  - caption: Instrumentos de medida
     numbered: True
     chapters:
       - file: contenido/practicas/numeropi
