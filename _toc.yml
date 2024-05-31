@@ -30,3 +30,6 @@ parts:
     chapters:
       - file: contenido/rubricas/Articulo
       - file: contenido/rubricas/Poster
+    chapters: Prácticas
+    numbered: True
+      - file: contenido/practicas/numeropi
