@@ -1,4 +1,4 @@
-# Práctica 1a: Determinación del número $\pi$
+# Determinación del número $\pi$
 
 ## Objetivos
 
