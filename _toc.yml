@@ -25,6 +25,7 @@ parts:
     numbered: False
     chapters:
       - file: contenido/manual
+      - file: contenido/pasco
   - caption: Rúbricas
     numbered: False
     chapters:
