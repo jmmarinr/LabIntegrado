@@ -1,6 +1,6 @@
 # Manuales PASCO
 
-```{dropdown}**Mecánica**
+```{dropdown} **Mecánica**
 - [Riel de aire](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EXrL52nqisFAjUk498FC_lwB2XPMsTaH3aJqXirweAyX6w?e=5lP1Ug)
 
 - [Lanzador pequeño](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EaJNXsxc-lNMlNVaU-g1wZkBMBwGFp0iSDLx1RtjVRwFzQ?e=pJlKAK)
@@ -11,15 +11,14 @@
 
 ```
 
-
-```{dropdown}**Campos**
+```{dropdown} **Campos**
 
 - [Balanza de corriente](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EcgNQXNSI_tBiK1Zi9h2BJABxBGopAs_H2Wr_m8enIuYzA?e=2g7wYq)
 
 ```
 
 
-```{dropdown}**Ondas**
+```{dropdown} **Ondas**
 
 - [Generador de ondas](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EQlP0c2WvNpHha2awaSXOwsBfEwU_sFzUnQuXxNABKH-0A?e=fQr3Bd)
 
@@ -33,8 +32,7 @@
 
 ```
 
-
-```{dropdown}**Térmica**
+```{dropdown} **Térmica**
 
 - [Generador de vapor](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/Ebm1rDR4rAtBmfoKgT5dmFYBLky9aQO013bErPJEbYsOJA?e=EwLSgh)
 
@@ -44,8 +42,7 @@
 
 ```
 
-
-```{dropdown}**Miscelánea**
+```{dropdown} **Miscelánea**
 
 - [Fotocompuerta](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/Eeg9lI3v5PJBjyDegFYnOF4BZdIEMxR8KPHVggxtNLc0DQ?e=vYAOnd)
 
