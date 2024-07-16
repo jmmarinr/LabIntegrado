@@ -30,14 +30,14 @@
 
 ```
 
-```{dropdown} ** Osciloscopio y generador de funciones **
+```{dropdown} **Osciloscopio y generador de funciones**
 - [Osciloscopio OWON](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EXiuHi0m-pNHhiGTLm-we64BHrLDK8WlnEUJlmekfriNIA?e=ZyaJPS)
 
 - [Generador de Funciones ATF20B](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EeMQAMmKPEdFp7pTkJRMUFUB12N-iuAQ6JRIoXfh5_GWPA?e=FoIlNP)
 
 ```
 
-```{dropdown} ** Multímetros y termómetros**
+```{dropdown} **Multímetros y termómetros**
 - [Multímetro UNIT UT70A](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EeoBPm2fD3tHiWKKQEu_dfkBu5t15SG9X9BKNTwMbudwhA?e=kO4SrG)
 
 - [Termómetro digital UT32X](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EfzgL-bPZutHkbz_CzNLUsABac2bvGL_NcQZya7trXBlAQ?e=qNj1v7)
