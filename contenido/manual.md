@@ -17,11 +17,13 @@
 
 ```
 
-```{dropdown}**Sistema de Adquisición de datos (Arduino) - Fotocompuerta**
+```{dropdown} **Sistema de Adquisición de datos (Arduino)**
 
-- [Usando computador](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/ETQFLqhTactPqCbe2UlZV7sBF-Chi5gYXdco0odzE4Docg?e=VZu49n)
+- [Conexión usando computador](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/ETQFLqhTactPqCbe2UlZV7sBF-Chi5gYXdco0odzE4Docg?e=VZu49n)
 
-- [Usando Android](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EUgriGOmehdNrRDG5veJnjcBc0cZmOCx_Y3VDLHqM8R1Og?e=e3tdNm)
+- [Conexión usando Android](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EUgriGOmehdNrRDG5veJnjcBc0cZmOCx_Y3VDLHqM8R1Og?e=e3tdNm)
+
+- [Sonda Hall](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EUvKgUsZ3eJGsrViMYe-Wl4BxBvmb6hyw2wlM7IENCJNPQ?e=Zczgm6)
 
 ![Conexión Fotoco](/contenido/imgs/conexion_fotocompuerta.jpg)
 
