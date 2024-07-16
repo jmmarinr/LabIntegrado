@@ -1,6 +1,6 @@
 # Materiales y equipos disponibles
 
-```{warning}
+```{danger}
 - **Lea el manual antes de usar cualquiera de los equipos.**
 - **NO exceda las limitaciones de los equipos, podría dañarlos.**
 - *Pregunte a su profesor y/o personal del almacen en caso de tener dudas.*
