@@ -2,7 +2,8 @@
 
 ```{warning}
 - **Lea el manual antes de usar cualquiera de los equipos.**
-- *Pregunte a su profesor o personal del almacen en caso de tener dudas.*
+- **NO exceda las limitaciones de los equipos, podría dañarlos.**
+- *Pregunte a su profesor y/o personal del almacen en caso de tener dudas.*
 ```
 
 ```{dropdown} **Fuentes de corriente y voltaje**
@@ -29,9 +30,23 @@
 
 ```
 
-```{dropdown} **Gráfico de Dispersión (Google Sheets)**
-<center>
-<iframe width="640" height="360" src="https://www.loom.com/embed/dd6fd7754b7d458caca612dba2fbd002?sid=f066d7a5-5324-4f2b-aa4b-e6433a9afdb8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</center>
+```{dropdown} ** Osciloscopio y generador de funciones **
+- [Osciloscopio OWON](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EXiuHi0m-pNHhiGTLm-we64BHrLDK8WlnEUJlmekfriNIA?e=ZyaJPS)
+
+- [Generador de Funciones ATF20B](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EeMQAMmKPEdFp7pTkJRMUFUB12N-iuAQ6JRIoXfh5_GWPA?e=FoIlNP)
+
 ```
 
+```{dropdown} ** Multímetros y termómetros**
+- [Multímetro UNIT UT70A](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EeoBPm2fD3tHiWKKQEu_dfkBu5t15SG9X9BKNTwMbudwhA?e=kO4SrG)
+
+- [Termómetro digital UT32X](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EfzgL-bPZutHkbz_CzNLUsABac2bvGL_NcQZya7trXBlAQ?e=qNj1v7)
+
+- [Medidor de impedancia UT53X](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EboLMxZjB55OmKcbp3lv1V8BgIgoTgDKAxxAxRn-XzrOCA?e=eNCfvk)
+
+```
+
+```{dropdown} **Manual Balanza digital**
+- [Balanza OHAUS](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EVfSl54PdFVOoNQYOuQKEGIBfeEA40_sRkX2Dc8XBdabHw?e=I4o3Qq)
+
+```
