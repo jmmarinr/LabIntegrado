@@ -1,8 +1,9 @@
 # Materiales y equipos disponibles
 
----
-Incluir los manuales de los equipos con videos del uso
----
+```{warning}
+- **Lea el manual antes de usar cualquiera de los equipos.**
+- *Pregunte a su profesor o personal del almacen en caso de tener dudas.*
+```
 
 ```{dropdown} **Fuentes de corriente y voltaje**
 
@@ -13,6 +14,16 @@ Incluir los manuales de los equipos con videos del uso
 - [Fuente ProTek](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EY5a5qxoKzFBtEr2H40IkEcBYQqt3h8x8fhaHXl49Mc5pw?e=3REkVL)
 
 - [Fuente UNIT](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EaLQ38PUwb5Gsl9QAbjP9ZMBIZOtlc3bHhVN7uSiVv2yQg?e=4KeL5C)
+
+```
+
+```{dropdown}**Sistema de Adquisición de datos (Arduino) - Fotocompuerta**
+
+- [Usando computador](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/ETQFLqhTactPqCbe2UlZV7sBF-Chi5gYXdco0odzE4Docg?e=VZu49n)
+
+- [Usando Android](https://udeaeduco-my.sharepoint.com/:b:/g/personal/marcos_marin_udea_edu_co/EUgriGOmehdNrRDG5veJnjcBc0cZmOCx_Y3VDLHqM8R1Og?e=e3tdNm)
+
+![Conexión Fotoco](/contenido/imgs/conexion_fotocompuerta.jpg)
 
 ```
 
