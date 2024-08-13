@@ -2,7 +2,7 @@
 
 **Semestre 2024-1**
 
-![calendario](/contenido/imgs/Calendario.png)
+![calendario](https://www.udea.edu.co/wps/wcm/connect/udea/bcd870d6-8545-4d5f-b21f-d566c1101745/1/Calendario+Acad%C3%A9mico+20242+%281%29.png?MOD=AJPERES)
 
 :::{card} Sobre asistencia
 :link: https://www.udea.edu.co/wps/wcm/connect/udea/b2694dcb-0fd3-49a2-a5cf-0f6aab701139/reglamento-estudiantil-pregrado-con-concordancias.pdf?MOD=AJPERES&CVID=lgcKqM7
